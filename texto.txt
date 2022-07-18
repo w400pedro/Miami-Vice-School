@@ -1,0 +1,18 @@
+O que eu fiz:
+    - Cadastro de alunos,
+    - Cadastro de professores,
+    - Cadastro da disciplina no aluno e no professor (esse só pode ser de uma),
+    - Listagem de alunos e professores
+
+
+O que falta:
+    - Realizar um cadastro simples de disciplinas que terá carga horária (EXEMPLO: 10 horas) // feito
+    - Apresentar se o aluno foi reprovado ou aprovado (7 ou mais aprovado), ou reprovado por frequência (menos de 75 reprovado). // feito
+    - Não deixar matricular o aluno com carga horária maior que 50.
+
+Responder as perguntas:
+
+(i) O professor fulano ministra aulas para o aluno ciclano?
+(ii) Listar disciplinas de um dado professor
+(iii) listar todos os alunos de um professor // feito
+(iv) apresentar o aluno que tirou a nota mais alta // feito
